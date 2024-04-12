@@ -63,14 +63,13 @@ Office: III/16
 <br>
 
 
-
 ## A Book (soon to be published)
 Jan Maas, Simone Rademacher, Tamás Titkos, Dániel Virosztek (Eds.)      
 Optimal Transport on Quantum Structures     
 Part of the book series: Bolyai Society Mathematical Studies (BSMS, volume 29)     
   
-<img src="https://www.renyi.hu/%7Etitkos/qot-book.jpg" alt="TT" width="200">
-<br>  
+<img src="https://www.renyi.hu/%7Etitkos/qot-book.jpg" alt="TT" width="200">       
+<br>
 
 
 ## Selected Papers
@@ -114,6 +113,7 @@ Part of the book series: Bolyai Society Mathematical Studies (BSMS, volume 29)
 10. A Radon-Nikodym type theorem for forms  
     Positivity, 2013  
     DOI: [https://doi.org/10.1007/s11117-012-0209-1](https://doi.org/10.1007/s11117-012-0209-1) (with Z. Sebestyén)
+
 <br>
 
 
@@ -212,7 +212,6 @@ LP2021-15/2021 (Momentum Program of the HAS), MTA RI "Momentum" Optimal Transpor
 - 2021/09--2023/08     
 Renyi-ELKH-sa-70-2021 (Eötvös Loránd Research Network), "Transport distances on classical and quantum structures"
 <br>
-
 
 
 ## Memberships
