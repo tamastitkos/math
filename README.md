@@ -78,7 +78,7 @@ Office: III/16
     DOI: [https://doi.org/10.2422/2036-2145.201702_011)](https://doi.org/10.2422/2036-2145.201702_011) (with Gy.P. Gehér)
 
 9. A Simple Proof of the Lebesgue Decomposition Theorem  
-    The American Mathematical Monthly, Taylor&Francis, 2015  
+    The American Mathematical Monthly, 2015  
     DOI: [https://doi.org/10.4169/amer.math.monthly.122.8.793](https://doi.org/10.4169/amer.math.monthly.122.8.793)
 
 10. A Radon-Nikodym type theorem for forms  
