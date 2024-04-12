@@ -19,12 +19,14 @@ E-mail: titkos@renyi.hu
 Office: III/16  
 <br>
 
+
 ## Research interests 
 
 - Functional analysis  
 - Optimal transport and Wasserstein spaces  
 - Lipschitz-free spaces  
 <br>
+
 
 ## Awards, Scholarships
 
@@ -37,6 +39,7 @@ Office: III/16
 - NRDI Postdoctoral Fellowship (2018)  
 <br>
 
+
 ## Editorial work
 
 - Editor of Periodica Mathematica Hungarica  
@@ -44,20 +47,30 @@ Office: III/16
 <br>
 
 
-## Recent manuscripts    
+## Recent Manuscripts    
 
-1. On the metric property of quantum Wasserstein divergences, arXiv:2402.13150 (with G. Bunth, J. Pitrik, and D. Virosztek)
+1. On the metric property of quantum Wasserstein divergences (with G. Bunth, J. Pitrik, and D. Virosztek)
 
-2. Isometries of Lipschitz-free Banach spaces, arXiv:2402.08266 (with M. Cúth and M. Doucha)
+2. Isometries of Lipschitz-free Banach spaces (with M. Cúth and M. Doucha)
 
-3. Isometric rigidity of Wasserstein spaces over Euclidean spheres, arXiv:2308.05065 (with Gy.P. Gehér, A. Hrušková, and D. Virosztek)
+3. Isometric rigidity of Wasserstein spaces over Euclidean spheres (with Gy.P. Gehér, A. Hrušková, and D. Virosztek)
 
-4. Isometric rigidity of the Wasserstein space W<sub>1</sub>(G) over Carnot groups, arXiv:2305.05492 (with Z.M. Balogh and D. Virosztek)
+4. Isometric rigidity of the Wasserstein space W<sub>1</sub>(G) over Carnot groups (with Z.M. Balogh and D. Virosztek)
 
-5. Isometries and isometric embeddings of Wasserstein spaces over the Heisenberg group, arXiv:2303.15095 (with Z.M. Balogh and D. Virosztek)
+5. Isometries and isometric embeddings of Wasserstein spaces over the Heisenberg group (with Z.M. Balogh and D. Virosztek)
 
 6. Lattice properties of strength functions (with A. Ramanantoanina)
 <br>
+
+
+## A Book (soon to be published)
+Jan Maas, Simone Rademacher, Tamás Titkos, Dániel Virosztek (Eds.)      
+Optimal Transport on Quantum Structures     
+Part of the book series: Bolyai Society Mathematical Studies (BSMS, volume 29)     
+  
+<img src="https://www.renyi.hu/%7Etitkos/qot-book.jpg" alt="TT" width="200">
+<br>
+
 
 ## Selected Papers
 
@@ -242,11 +255,4 @@ Renyi-ELKH-sa-70-2021 (Eötvös Loránd Research Network), "Transport distances 
 (with L. Molnár)
 
 
-## A Book (soon to be published)
-Jan Maas, Simone Rademacher, Tamás Titkos, Dániel Virosztek (Eds.)      
-Optimal Transport on Quantum Structures     
-Part of the book series: Bolyai Society Mathematical Studies (BSMS, volume 29)     
 
-      
-<img src="https://www.renyi.hu/%7Etitkos/qot-book.jpg" alt="TT" width="200">
-<br>
