@@ -63,6 +63,7 @@ Office: III/16
 <br>
 
 
+
 ## A Book (soon to be published)
 Jan Maas, Simone Rademacher, Tamás Titkos, Dániel Virosztek (Eds.)      
 Optimal Transport on Quantum Structures     
