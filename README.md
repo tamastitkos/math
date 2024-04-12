@@ -70,7 +70,7 @@ Optimal Transport on Quantum Structures
 Part of the book series: Bolyai Society Mathematical Studies (BSMS, volume 29)     
   
 <img src="https://www.renyi.hu/%7Etitkos/qot-book.jpg" alt="TT" width="200">
-<br>
+<br>  
 
 
 ## Selected Papers
