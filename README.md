@@ -43,11 +43,27 @@ Office: III/16
 - Editor of Érintő (Electronic Journal of the János Bolyai Mathematical Society)  
 <br>
 
+
+## Recent manuscripts    
+
+1. On the metric property of quantum Wasserstein divergences, arXiv:2402.13150 (with G. Bunth, J. Pitrik, and D. Virosztek)
+
+2. Isometries of Lipschitz-free Banach spaces, arXiv:2402.08266 (with M. Cúth and M. Doucha)
+
+3. Isometric rigidity of Wasserstein spaces over Euclidean spheres, arXiv:2308.05065 (with Gy.P. Gehér, A. Hrušková, and D. Virosztek)
+
+4. Isometric rigidity of the Wasserstein space W<sub>1</sub>(G) over Carnot groups, arXiv:2305.05492 (with Z.M. Balogh and D. Virosztek)
+
+5. Isometries and isometric embeddings of Wasserstein spaces over the Heisenberg group, arXiv:2303.15095 (with Z.M. Balogh and D. Virosztek)
+
+6. Lattice properties of strength functions (with A. Ramanantoanina)
+<br>
+
 ## Selected Papers
 
 1. On the exotic isometry flow of the quadratic Wasserstein space over the real line  
    Linear Algebra and its Applications, 2024  
-   DOI: [https://doi.org/10.1016/j.laa.2023.02.016](https://doi.org/10.1016/j.laa.2023.02.016) (with Gy.P. Gehér, and D. Virosztek)  
+   DOI: [https://doi.org/10.1016/j.laa.2023.02.016](https://doi.org/10.1016/j.laa.2023.02.016) (with Gy.P. Gehér and D. Virosztek)  
 
 2. Quantum Wasserstein isometries on the qubit state space  
    Journal of Mathematical Analysis and Applications, 2023  
@@ -59,11 +75,11 @@ Office: III/16
 
 4. The isometry group of Wasserstein spaces: the Hilbertian case  
    Journal of the London Mathematical Society, 2022  
-   DOI: [https://doi.org/10.1112/jlms.12676](https://doi.org/10.1112/jlms.12676)  (with Gy.P. Gehér, and D. Virosztek)
+   DOI: [https://doi.org/10.1112/jlms.12676](https://doi.org/10.1112/jlms.12676)  (with Gy.P. Gehér and D. Virosztek)
 
 5. Isometric study of Wasserstein spaces - the real line  
    Transactions of the American Mathematical Society, 2020  
-   DOI: [https://doi.org/10.1090/tran/8113](https://doi.org/10.1090/tran/8113) (with Gy.P. Gehér, and D. Virosztek)
+   DOI: [https://doi.org/10.1090/tran/8113](https://doi.org/10.1090/tran/8113) (with Gy.P. Gehér and D. Virosztek)
 
 6. Operators on anti-dual pairs: Generalized Krein-von Neumann extension  
    Mathematische Nachrichten, 2020  
