@@ -6,7 +6,7 @@
 
 ## Contact information
 
-Corvinus University of Budapest, Institute of Mathematics   
+Corvinus University of Budapest, Department of Mathematics   
 H-1093 Budapest, Fővám tér 13-15.    
 E-mail: tamas.titkos@uni-corvinus.hu      
 Office: Salt House, S229a    
