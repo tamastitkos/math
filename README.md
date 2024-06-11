@@ -225,7 +225,19 @@ Renyi-ELKH-sa-70-2021 (Eötvös Loránd Research Network), "Transport distances 
 
 ## Organization of Academic Events
 
-- "Big Five Centenary" - a mini-conference honoring the achievements of five outstanding Hungarian mathematicians born 100 years ago: János Aczél, Ákos Császár, László Fuchs, István Gál, and János Horváth -- (local organizer)
+- Preserver Weekend in Szeged, 2019  
+(with L. Molnár)
+
+
+- Analysis Seminar of the Alfréd Rényi Institute of Mathematics, 2019-2020
+
+
+- Preserver Webinar - an online seminar series on preserver problems, 2020  
+(with Gy.P. Gehér and D. Virosztek)
+
+
+- Functional Analysis and Operator Theory Webinar – with an emphasis on preserver problems and quantum information, 2020-21  
+(with Gy.P. Gehér and D. Virosztek)
 
 
 - Thematic semester at Erdős Cender (2022 Fall, Sept-Dec): Optimal Transport on Quantum Structures  
@@ -246,16 +258,8 @@ Renyi-ELKH-sa-70-2021 (Eötvös Loránd Research Network), "Transport distances 
     Nicolas Juillet (Université de Haute-Alsace), Eva Pernecká (Czech Technical University in Prague)
 
 
-- Functional Analysis and Operator Theory Webinar – with an emphasis on preserver problems and quantum information, 2020-21  
-(with Gy.P. Gehér and D. Virosztek)
+- "Big Five Centenary" - a mini-conference honoring the achievements of five outstanding Hungarian mathematicians born 100 years ago: János Aczél, Ákos Császár, László Fuchs, István Gál, and János Horváth -- (local organizer)
 
-- Preserver Webinar - an online seminar series on preserver problems, 2020  
-(with Gy.P. Gehér and D. Virosztek)
-
-- Analysis Seminar of the Alfréd Rényi Institute of Mathematics, 2019-2020
-
-- Preserver Weekend in Szeged, 2019  
-(with L. Molnár)
 
 
 
