@@ -225,36 +225,36 @@ Renyi-ELKH-sa-70-2021 (Eötvös Loránd Research Network), "Transport distances 
 
 ## Organization of Academic Events
 
--- "Big Five Centenary" - a mini-conference honoring the achievements of five outstanding Hungarian mathematicians born 100 years ago: János Aczél, Ákos Császár, László Fuchs, István Gál, and János Horváth -- (local organizer)
+- "Big Five Centenary" - a mini-conference honoring the achievements of five outstanding Hungarian mathematicians born 100 years ago: János Aczél, Ákos Császár, László Fuchs, István Gál, and János Horváth -- (local organizer)
 
 
--- Thematic semester at Erdős Cender (2022 Fall, Sept-Dec): Optimal Transport on Quantum Structures  
+- Thematic semester at Erdős Cender (2022 Fall, Sept-Dec): Optimal Transport on Quantum Structures  
 (with J. Maas, S. Rademacher and D. Virosztek)  
 
-    - School: Sept 19-23, 2022  
+    * School: Sept 19-23, 2022  
     Lecturers: E.A. Carlen (Rutgers University), A. Figalli (ETH Zurich), F. Golse (CMLS Ecole Polytechnique), D. Trevisan (University of Pisa)  
 
-    - Workshop: Sept 26-30, 2022  
+    * Workshop: Sept 26-30, 2022  
     Invited speakers: P. Antonini (Università del Salento), Z. Balogh (University of Bern), Y. Brenier (Universite Paris-Saclay), A. Capel (Universität         Tübingen), E. Caglioti (Sapienza University of Rome), Li Chen (University of Mannheim, Germany), N. Datta (University of Cambridge), G. De Palma            (University of Bologna), M. Eckstein (Jagiellonian University), M. Iacobelli (ETH Zurich), L. Lafleche (UT Austin), L. Portinale (Hausdorff Center for      Mathematics Bonn), C. Rouzé (TU Munich), D. Shlyakhtenko (UCLA), M. Wirth (IST Austria) H. Zhang (IST Austria), K. Zyczkowski (Polish Academy of            Sciences)  
 
-    - Focus event on Modified Logarithmic Sobolev Inequalities for Quantum Markov Semigroups: November 21-25, 2022  
+    * Focus event on Modified Logarithmic Sobolev Inequalities for Quantum Markov Semigroups: November 21-25, 2022  
     Ivan Bardet (Inria de Paris, France) Angela Capel (Universität Tübingen, Germany)  
     Cambyse Rouzé (Technische Universität München, Germany), Daniel Stilck França (ENS Lyon, France)
 
-    - Focus Event on the Geometry of Wasserstein Spaces: November 28 - December 2, 2022  
+    * Focus Event on the Geometry of Wasserstein Spaces: November 28 - December 2, 2022  
     Ramón J. Aliaga (Universitat Politècnica de València), Zoltán Balogh (University of Bern, Switzerland)  
     Nicolas Juillet (Université de Haute-Alsace), Eva Pernecká (Czech Technical University in Prague)
 
 
--- Functional Analysis and Operator Theory Webinar – with an emphasis on preserver problems and quantum information, 2020-21  
+- Functional Analysis and Operator Theory Webinar – with an emphasis on preserver problems and quantum information, 2020-21  
 (with Gy.P. Gehér and D. Virosztek)
 
--- Preserver Webinar - an online seminar series on preserver problems, 2020  
+- Preserver Webinar - an online seminar series on preserver problems, 2020  
 (with Gy.P. Gehér and D. Virosztek)
 
--- Analysis Seminar of the Alfréd Rényi Institute of Mathematics, 2019-2020
+- Analysis Seminar of the Alfréd Rényi Institute of Mathematics, 2019-2020
 
--- Preserver Weekend in Szeged, 2019  
+- Preserver Weekend in Szeged, 2019  
 (with L. Molnár)
 
 
