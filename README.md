@@ -49,17 +49,17 @@ Office: III/16
 
 ## Recent Manuscripts    
 
-1. On the metric property of quantum Wasserstein divergences (with G. Bunth, J. Pitrik, and D. Virosztek)
+1. On the metric property of quantum Wasserstein divergences (with G. Bunth, J. Pitrik, and D. Virosztek) [to appear in Physical Review A]
 
 2. Isometries of Lipschitz-free Banach spaces (with M. Cúth and M. Doucha)
 
-3. Isometric rigidity of Wasserstein spaces over Euclidean spheres (with Gy.P. Gehér, A. Hrušková, and D. Virosztek)
+3. Isometric rigidity of Wasserstein spaces over Euclidean spheres (with Gy.P. Gehér, A. Hrušková, and D. Virosztek) [to appear in Journal of Mathematical Analysis and Applications]
 
 4. Isometric rigidity of the Wasserstein space W<sub>1</sub>(G) over Carnot groups (with Z.M. Balogh and D. Virosztek)
 
 5. Isometries and isometric embeddings of Wasserstein spaces over the Heisenberg group (with Z.M. Balogh and D. Virosztek)
 
-6. Lattice properties of strength functions (with A. Ramanantoanina)
+6. Lattice properties of strength functions (with A. Ramanantoanina) [to appear in Acta Scientiarum Mathematicarum]
 <br>
 
 
@@ -119,6 +119,14 @@ Part of the book series: Bolyai Society Mathematical Studies (BSMS, volume 29)
 
 ## Selected talks
 
+- 11/07/2016 Surjective Lévy-Prokhorov isometries
+  20th Conference of the International Linear Algebra Society
+  Leuven, Belgium
+
+- 15/08/2017 Lebesgue decomposition and order structure
+  International Workshop on Operator Theory and its Applications
+  Chemnitz, Germany
+
 - 21/11/2017 Lebesgue- and Radon--Nikodym type theorems  
   Formal Sciences Seminar, IST Austria  
   Klosterneuburg, Austria  
@@ -137,7 +145,7 @@ Part of the book series: Bolyai Society Mathematical Studies (BSMS, volume 29)
 
 - 29/01/2019 On the isometry group of metric spaces of probability measures  
   Researches on isometries as preserver problems and related topics, Kyoto RIMS  
-  Kyoto, Japan  
+  Kyoto, Japan
 
 - 08-12/07/2019 Positive operators on anti-dual pairs: Parallel addition  
   ILAS 2019 - Invited Mini-Symposium: Matrix Analysis  
@@ -152,7 +160,7 @@ Part of the book series: Bolyai Society Mathematical Studies (BSMS, volume 29)
   Madison, US  
 
 - 20-26/06/2021 Maps preserving absolute continuity of positive operators  
-  8th European Congress of Mathematics, MS: Recent Developments on Preservers  
+  8th European Congress of Mathematics
   Portoroz, Slovenia  
 
 - 23/11/2022 On the Monge-Kantorovich distance over concave base spaces  
@@ -165,7 +173,17 @@ Part of the book series: Bolyai Society Mathematical Studies (BSMS, volume 29)
 
 - 20/09/2023 Isometries of Wasserstein spaces and Lipschitz-free spaces  
   Æsy to define, Hard to analyse: First conference on Lipschitz-free spaces, Centre Diocésain  
-  Besançon, France  
+  Besançon, France
+
+- 16/07/2024 Isometries and isometric embeddings of Wasserstein spaces over the Heisenberg group
+  9th European Congress of Mathematics
+  Sevilla, Spain
+
+- 15/08/2024 Lattice properties of strength functions
+  35th International Workshop on Operator Theory and its Applications
+  Canterbury, UK
+
+  
 <br>
 
 
