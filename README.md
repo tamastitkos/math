@@ -165,8 +165,8 @@ Part of the book series: Bolyai Society Mathematical Studies (BSMS, volume 29)
   Moscow, Russia  
 
 - 17/11/2020 Isometries of Wasserstein spaces  
-  Analysis Seminar, University of Wisconsin-Madison  
-  Madison, US  
+  Analysis Seminar, University of Wisconsin-Madison
+  Madison, United States [via Zoom]
 
 - 20-26/06/2021 Maps preserving absolute continuity of positive operators  <br />
   8th European Congress of Mathematics <br />
@@ -190,7 +190,7 @@ Part of the book series: Bolyai Society Mathematical Studies (BSMS, volume 29)
 
 - 15/08/2024 Lattice properties of strength functions <br />
   35th International Workshop on Operator Theory and its Applications <br />
-  Canterbury, UK
+  Canterbury, United Kingdom
 
   
 <br>
