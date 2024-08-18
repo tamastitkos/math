@@ -1,5 +1,7 @@
 <img src="https://www.renyi.hu/%7Etitkos/3c.jpg" alt="TT" width="500">
 
+
+
 # Tamás TITKOS
 <br>
 
@@ -49,17 +51,20 @@ Office: III/16
 
 ## Recent Manuscripts    
 
-1. On the metric property of quantum Wasserstein divergences (with G. Bunth, J. Pitrik, and D. Virosztek) [to appear in Physical Review A]
+1. On the metric property of quantum Wasserstein divergences (with G. Bunth, J. Pitrik, and D. Virosztek) <br />
+   [to appear in Physical Review A]
 
-2. Isometries of Lipschitz-free Banach spaces (with M. Cúth and M. Doucha)
+3. Isometries of Lipschitz-free Banach spaces (with M. Cúth and M. Doucha)
 
-3. Isometric rigidity of Wasserstein spaces over Euclidean spheres (with Gy.P. Gehér, A. Hrušková, and D. Virosztek) [to appear in Journal of Mathematical Analysis and Applications]
+4. Isometric rigidity of Wasserstein spaces over Euclidean spheres (with Gy.P. Gehér, A. Hrušková, and D. Virosztek) <br />
+   [to appear in Journal of Mathematical Analysis and Applications]
 
-4. Isometric rigidity of the Wasserstein space W<sub>1</sub>(G) over Carnot groups (with Z.M. Balogh and D. Virosztek)
+6. Isometric rigidity of the Wasserstein space W<sub>1</sub>(G) over Carnot groups (with Z.M. Balogh and D. Virosztek)
 
-5. Isometries and isometric embeddings of Wasserstein spaces over the Heisenberg group (with Z.M. Balogh and D. Virosztek)
+7. Isometries and isometric embeddings of Wasserstein spaces over the Heisenberg group (with Z.M. Balogh and D. Virosztek)
 
-6. Lattice properties of strength functions (with A. Ramanantoanina) [to appear in Acta Scientiarum Mathematicarum]
+8. Lattice properties of strength functions (with A. Ramanantoanina)<br />
+   [to appear in Acta Scientiarum Mathematicarum]
 <br>
 
 
@@ -119,12 +124,12 @@ Part of the book series: Bolyai Society Mathematical Studies (BSMS, volume 29)
 
 ## Selected talks
 
-- 11/07/2016 Surjective Lévy-Prokhorov isometries
-  20th Conference of the International Linear Algebra Society
+- 11/07/2016 Surjective Lévy-Prokhorov isometries <br />
+  20th Conference of the International Linear Algebra Society <br />
   Leuven, Belgium
 
-- 15/08/2017 Lebesgue decomposition and order structure
-  International Workshop on Operator Theory and its Applications
+- 15/08/2017 Lebesgue decomposition and order structure <br />
+  International Workshop on Operator Theory and its Applications <br />
   Chemnitz, Germany
 
 - 21/11/2017 Lebesgue- and Radon--Nikodym type theorems  
@@ -138,6 +143,10 @@ Part of the book series: Bolyai Society Mathematical Studies (BSMS, volume 29)
 - 19/06/2018 Characterisations of isometries with respect to probability distances  
   Preservers: Modern Aspects and New Directions, Queen’s University Belfast  
   Belfast, Northern Ireland  
+
+- 12/07/2018 Generalized Krein - von Neumann extension <br />
+  6th Summer Workshop on Operator Theory, Uniwersytet Rolniczy w Krakowie <br />
+  Kraków, Poland <br />
 
 - 19/12/2018 Positive operators on anti-dual pairs  
   2018 China-Korea International Conference on Matrix Theory with Applications, Shanghai University  
@@ -159,8 +168,8 @@ Part of the book series: Bolyai Society Mathematical Studies (BSMS, volume 29)
   Analysis Seminar, University of Wisconsin-Madison  
   Madison, US  
 
-- 20-26/06/2021 Maps preserving absolute continuity of positive operators  
-  8th European Congress of Mathematics
+- 20-26/06/2021 Maps preserving absolute continuity of positive operators  <br />
+  8th European Congress of Mathematics <br />
   Portoroz, Slovenia  
 
 - 23/11/2022 On the Monge-Kantorovich distance over concave base spaces  
@@ -175,12 +184,12 @@ Part of the book series: Bolyai Society Mathematical Studies (BSMS, volume 29)
   Æsy to define, Hard to analyse: First conference on Lipschitz-free spaces, Centre Diocésain  
   Besançon, France
 
-- 16/07/2024 Isometries and isometric embeddings of Wasserstein spaces over the Heisenberg group
-  9th European Congress of Mathematics
+- 16/07/2024 Isometries and isometric embeddings of Wasserstein spaces over the Heisenberg group <br />
+  9th European Congress of Mathematics <br />
   Sevilla, Spain
 
-- 15/08/2024 Lattice properties of strength functions
-  35th International Workshop on Operator Theory and its Applications
+- 15/08/2024 Lattice properties of strength functions <br />
+  35th International Workshop on Operator Theory and its Applications <br />
   Canterbury, UK
 
   
