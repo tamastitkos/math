@@ -57,12 +57,14 @@ Office: III/16
 2. Isometries of Lipschitz-free Banach spaces (with M. Cúth and M. Doucha)
 
 3. Isometric rigidity of Wasserstein spaces over Euclidean spheres (with Gy.P. Gehér, A. Hrušková, and D. Virosztek) <br />
+   [to appear in Journal of Mathematical Analysis and Applications]
 
 4. Isometric rigidity of the Wasserstein space W<sub>1</sub>(G) over Carnot groups (with Z.M. Balogh and D. Virosztek)
 
 5. Isometries and isometric embeddings of Wasserstein spaces over the Heisenberg group (with Z.M. Balogh and D. Virosztek)
 
 6. Lattice properties of strength functions (with A. Ramanantoanina)<br />
+   [to appear in Acta Scientiarum Mathematicarum]
 
 <br>
 
