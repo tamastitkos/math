@@ -191,6 +191,10 @@ Part of the book series: Bolyai Society Mathematical Studies (BSMS, volume 29)
   35th International Workshop on Operator Theory and its Applications <br />
   Canterbury, United Kingdom
 
+- 02/09/2024 Quantum Wasserstein isometries on the qubit state space <br />
+  INdAM Meeting - Quantum Optimal Transport and Applications, Palazzone di Cortona <br />
+  Cortona, Italy
+
   
 <br>
 
