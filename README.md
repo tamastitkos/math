@@ -54,7 +54,7 @@ Office: III/16
 1. On the metric property of quantum Wasserstein divergences (with G. Bunth, J. Pitrik, and D. Virosztek) <br />
    [to appear in Physical Review A]
 
-2. Isometries of Lipschitz-free Banach spaces (with M. Cúth and M. Doucha)
+2. Isometries of Lipschitz-free Banach spaces (with M. Cúth and M. Doucha)<br />
    [to appear in the Journal of the London Mathematical Society]
 
 3. Isometric rigidity of Wasserstein spaces over Euclidean spheres (with Gy.P. Gehér, A. Hrušková, and D. Virosztek) <br />
