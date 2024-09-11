@@ -55,9 +55,10 @@ Office: III/16
    [to appear in Physical Review A]
 
 2. Isometries of Lipschitz-free Banach spaces (with M. Cúth and M. Doucha)
+   [to appear in the Journal of the London Mathematical Society]
 
 3. Isometric rigidity of Wasserstein spaces over Euclidean spheres (with Gy.P. Gehér, A. Hrušková, and D. Virosztek) <br />
-   [to appear in Journal of Mathematical Analysis and Applications]
+   [to appear in the Journal of Mathematical Analysis and Applications]
 
 4. Isometric rigidity of the Wasserstein space W<sub>1</sub>(G) over Carnot groups (with Z.M. Balogh and D. Virosztek)
 
