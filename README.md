@@ -61,15 +61,16 @@ Office: III/16
    [to appear in the Journal of Mathematical Analysis and Applications]
 
 4. Isometric rigidity of the Wasserstein space W<sub>1</sub>(G) over Carnot groups (with Z.M. Balogh and D. Virosztek)
+   [to appear in Potential Analysis]
 
-5. Rigid and flexible Wasserstein spaces (with Z.M. Balogh, E. Ströher and D. Virosztek)
+6. Rigid and flexible Wasserstein spaces (with Z.M. Balogh, E. Ströher and D. Virosztek)
 
-6. Wasserstein distances and divergences of order p by quantum channels (with G. Bunth, J. Pitrik, and D. Virosztek)
+7. Wasserstein distances and divergences of order p by quantum channels (with G. Bunth, J. Pitrik, and D. Virosztek)
 
-7. Isometries and isometric embeddings of Wasserstein spaces over the Heisenberg group (with Z.M. Balogh and D. Virosztek)<br />
+8. Isometries and isometric embeddings of Wasserstein spaces over the Heisenberg group (with Z.M. Balogh and D. Virosztek)<br />
    [to appear in Revista Matemática Iberoamericana]
 
-8. Lattice properties of strength functions (with A. Ramanantoanina)<br />
+9. Lattice properties of strength functions (with A. Ramanantoanina)<br />
    [to appear in Acta Scientiarum Mathematicarum]
 
 
