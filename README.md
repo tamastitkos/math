@@ -60,7 +60,7 @@ Office: III/16
 3. Isometric rigidity of Wasserstein spaces over Euclidean spheres (with Gy.P. Gehér, A. Hrušková, and D. Virosztek) <br />
    [to appear in the Journal of Mathematical Analysis and Applications]
 
-4. Isometric rigidity of the Wasserstein space W<sub>1</sub>(G) over Carnot groups (with Z.M. Balogh and D. Virosztek)
+4. Isometric rigidity of the Wasserstein space W<sub>1</sub>(G) over Carnot groups (with Z.M. Balogh and D. Virosztek) <br />
    [to appear in Potential Analysis]
 
 6. Rigid and flexible Wasserstein spaces (with Z.M. Balogh, E. Ströher and D. Virosztek)
