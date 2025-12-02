@@ -44,8 +44,9 @@ Office: III/16
 
 ## Editorial work
 
-- Editor of Periodica Mathematica Hungarica  
-- Editor of Érintő (Electronic Journal of the János Bolyai Mathematical Society)  
+- Editor of Acta Scientiarum Mathematicarum <br />
+- Editor of Periodica Mathematica Hungarica  <br />
+- Editor of Érintő (Electronic Journal of the János Bolyai Mathematical Society)  <br />
 <br>
 
 
