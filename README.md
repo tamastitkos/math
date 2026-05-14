@@ -75,8 +75,6 @@ Office: III/16
 9. Lattice properties of strength functions (with A. Ramanantoanina)<br />
    [to appear in Acta Scientiarum Mathematicarum]
 
-10. 
-
 
 <br>
 
@@ -217,6 +215,15 @@ Part of the book series: Bolyai Society Mathematical Studies (BSMS, volume 29)
   The 26th Conference of the International Linear Algebra Society <br />
   Kaohsiung, Taiwan
   
+<br>
+
+## Upcoming talks
+
+- [International Congress of Mathematicians 23-30/07/2026, Philadelphia, Pennsylvania](icm2026.org)<br />
+- [International Workshop on Operator Theory and its Applications, 3-7/08/2026, Quebec City, Canada](https://iwota-2026.fsg.ulaval.ca/)
+
+
+
 <br>
 
 
