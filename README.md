@@ -261,7 +261,6 @@ Renyi-ELKH-sa-70-2021 (Eötvös Loránd Research Network), "Transport distances 
 - Public body of the Hungarian Academy of Sciences  
 - János Bolyai Mathematical Society  
 - European Mathematical Society  
-- American Mathematical Society  
 <br>
 
 
