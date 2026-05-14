@@ -219,9 +219,9 @@ Part of the book series: Bolyai Society Mathematical Studies (BSMS, volume 29)
 
 ## Upcoming talks
 
-- [International Congress of Mathematicians 23-30/07/2026, Philadelphia, Pennsylvania](icm2026.org)<br />
-- [International Workshop on Operator Theory and its Applications, 3-7/08/2026, Quebec City, Canada](https://iwota-2026.fsg.ulaval.ca/)
-
+[International Congress of Mathematicians 23-30/07/2026, Philadelphia, Pennsylvania](icm2026.org)<br />
+[International Workshop on Operator Theory and its Applications, 3-7/08/2026, Quebec City, Canada](https://iwota-2026.fsg.ulaval.ca/)<br />
+[Workshop on Preserver Problems in Japan (PPJP2026), 24-28/08/2026, Kyoto](https://sites.google.com/view/ppjp2026)<br />
 
 
 <br>
