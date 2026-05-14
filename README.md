@@ -65,6 +65,7 @@ Office: III/16
    [to appear in Potential Analysis]
 
 5. Strong Kantorovich duality for quantum optimal transport with generic cost and optimal couplings on quantum bits (with G. Bunth, J. Pitrik, and D. Virosztek) <br />
+   [to appear in Linear Algebra and its Applications]
 
 7. Wasserstein distances and divergences of order p by quantum channels (with G. Bunth, J. Pitrik, and D. Virosztek) <br />
 
@@ -74,6 +75,7 @@ Office: III/16
 9. Lattice properties of strength functions (with A. Ramanantoanina)<br />
    [to appear in Acta Scientiarum Mathematicarum]
 
+10. 
 
 
 <br>
@@ -207,6 +209,13 @@ Part of the book series: Bolyai Society Mathematical Studies (BSMS, volume 29)
   INdAM Meeting - Quantum Optimal Transport and Applications, Palazzone di Cortona <br />
   Cortona, Italy
 
+- 04/03/2025  Rigid and non-rigid Wasserstein spaces <br />
+  Bocconi University, Analysis and Applied Mathematics Seminar <br />
+  Milano, Italy
+
+- 26/06/2025  Isometries of Lipschitz-free Banach spaces <br />
+  The 26th Conference of the International Linear Algebra Society <br />
+  Kaohsiung, Taiwan
   
 <br>
 
@@ -254,6 +263,10 @@ LP2021-15/2021 (Momentum Program of the HAS), MTA RI "Momentum" Optimal Transpor
 - 2021/09--2023/08     
 Renyi-ELKH-sa-70-2021 (Eötvös Loránd Research Network), "Transport distances on classical and quantum structures"
 <br>
+
+- 2025/01--2026/12      
+Excellence - No. 151232, "New Frontiers in Quantum Optimal Transport" 
+(Principal Investigator: Dániel Virosztek)
 
 
 ## Memberships
